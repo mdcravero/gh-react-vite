@@ -36,6 +36,15 @@ function App() {
           >
             Vite Docs
           </a>
+          {' | '}
+          <a
+            className="App-link"
+            href="https://drive.google.com/drive/folders/190h_EMmX1-uRXiaJgHEatXLhbFMNzj8c?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Tute Docs
+          </a>
         </p>
       </header>
     </div>
